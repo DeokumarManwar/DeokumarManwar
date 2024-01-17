@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MERN stack development, I'm happy to share insights on building efficient and scalable applications using MongoDB, Express.js, React, and Node.js.I love discussing innovative solutions and teamwork in the tech space!**
 
-- 📫 How to reach me **devmanwar305@gmail.com**
+- 📫 reach me through LinkedIn **https://www.linkedin.com/in/deokumar-manwar-619601219/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
