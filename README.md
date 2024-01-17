@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DeOkumar Manwar</h1>
-<h3 align="center">Crafting Digital Innovations | Full Stack Developer | Drone Enthusiast | Creative Problem-Solver</h3>
+<h3 align="center">Crafting Digital Innovations | Full Stack Developer | Creative Problem-Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deokumarmanwar&label=Profile%20views&color=0e75b6&style=flat" alt="deokumarmanwar" /> </p>
 
